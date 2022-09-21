@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there👋 I am Pratap Bunga
 
-Hi, I am a ReactJS/Frontend Developer 👨‍💻
+✨ ReactJS/Frontend Software Engineer!👨‍💻 ✨
 
 🔭 I am actively looking for a full-time React Developer positions in United Kingdom(remote/Glasgow). Currently, I am working as a full-time React Developer with CK12 for the past 2.5 years.
 
