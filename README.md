@@ -1,4 +1,4 @@
-### Hi there👋 I am Pratap Bunga
+### Hi there👋 I am Pratap
 
 ✨ ReactJS/Frontend Software Engineer!👨‍💻 ✨
 
@@ -6,7 +6,7 @@
 
 🌱 On the side, I love building products that give some meaning(mostly around education and health). Here I focus on building e2e products and learn whatever I need to build them. Currently using MERN stack to build my side projects(edsify.com & medwiser.in). Working on typescript, tailwind and backend skills.
 
-⚡ Fun fact: Currently I'm in UK and it is my 30th country to visit. In 2017, I took break from work and traveled around the world for 2 years to explore what I want in life. I'm very grateful for that experience to explore the world as it is on my own pace.
+⚡ Currently I'm in the UK and it is my 30th country to visit. In 2017, I took break from work and traveled around the world for 2 years to explore what I want in life. I'm very grateful for that experience to explore the world as it is on my own pace.
 
 
 <!--
